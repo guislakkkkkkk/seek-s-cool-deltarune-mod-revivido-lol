@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				261
+			],
+			"anim": "firstDeath",
+			"fps": 15,
+			"name": "soul firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				235
+			],
+			"anim": "deathLoop",
+			"fps": 8,
+			"name": "soul deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				232
+			],
+			"anim": "deathConfirm",
+			"fps": 13,
+			"name": "soul deathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soul",
+	"position": [
+		-340,
+		280
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

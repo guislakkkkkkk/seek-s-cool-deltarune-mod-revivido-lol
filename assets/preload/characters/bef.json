@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				213
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bef idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				213
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bef NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				213
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bef NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				215
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bef NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				214
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bef NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				212
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "bef NOTE LEFT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				213
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "bef NOTE DOWN MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				213
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "bef NOTE UP MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				212
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "bef NOTE RIGHT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				212
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "bef HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				209
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "bef dies0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				124,
+				209
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "bef dead loop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				209
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "bef dead confirmed0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bef",
+	"position": [
+		-180,
+		120
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
